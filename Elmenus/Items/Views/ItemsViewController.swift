@@ -8,7 +8,6 @@
 
 import UIKit
 import SVProgressHUD
-import SCLAlertView
 import SwiftMessageBar
 
 class ItemsViewController: UIViewController {
