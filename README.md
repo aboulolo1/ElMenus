@@ -15,3 +15,9 @@
 - UIScrollView-InfiniteScroll : Infinite scroll implementation as a category for UIScrollView
 - Alamofire : used this library to check Connectivity
 - SwiftMessageBar : used this library to show alert message for error
+
+# Features:
+
+- Fetch list of tags from mock api https://elmenus-assignment.getsandbox.com/tags/{page}
+- Fetch list of items based on tag name from mock api https://elmenus-assignment.getsandbox.com/tags/{page}
+- cache the API response and display it in offline mode.
