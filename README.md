@@ -26,12 +26,6 @@
 
 MVVM design pattern : 
 
-- Modelis a class that declares properties for managing business data
+- Model is a class that declares properties for managing business data
 - View is represented by the UIView or UIViewController objects, accompanied with their .xib and .storyboard files, which should only display prepared data.
 - ViewModel The viewModel is at the heart of the MVVM design pattern and provides the connection between the business logic and the view/view controller. The view (UI) responds to user input by passing input data (defined by the model) to the viewModel. In turn, the viewModel evaluates the input data and responds with an appropriate UI presentation according business logic workflow.
-
-
-
-
-
-
